@@ -11,8 +11,8 @@
  -JAVASCRIPT
  <br>
  <br>
- <h3 align="center">totalmente RESPONSIVEL, dinâmico, converte de Real para outras moedas. </h3>
+ <h3>totalmente RESPONSIVEL, dinâmico, converte de Real para outras moedas. </h3>
  <br>
 
-<img src= "https://github.com/BrunaCarolinaabb/DevClub-Conversor-de-Moeda/blob/main/assets/currency%20conversion.gif?raw=true"/>
+<img src= "https://github.com/BrunaCarolinaabb/DevClub-Conversor-de-Moeda/blob/main/assets/currency%20conversion.gif?raw=true" width="500px" />
 
